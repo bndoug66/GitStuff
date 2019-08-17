@@ -1,2 +1,7 @@
 This is a test file to upload to GitHub.
 Hope this works.
+
+OK, it worked! Yippee.
+
+So, now I am trying out some changes to this file and uploading.
+Hope this works also.
